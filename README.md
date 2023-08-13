@@ -5,6 +5,8 @@ Part of web development course for learning JavaScript and React framework.
 
 Quickly add notes to track your daily tasks and remove them,when they're done.
 
+Add title for every note you place to stand out from the rest.
+
 Material-UI components and icons used for front end development.
 
 ### Stack
