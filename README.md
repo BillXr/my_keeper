@@ -17,3 +17,12 @@ Material-UI components and icons used for front end development.
 + Forms
 + Changing State, Hooks, and more
 
+
+### Execution
+
+    $ git clone https://github.com/BillXr/my_keeper.git
+    $ cd my_keeper
+    $ npm install       # Install Node modules listed in ./package.json (may take a
+                    # while the first time)
+    $ npm start         # Compile and launch
+
