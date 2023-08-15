@@ -19,7 +19,7 @@ Material-UI components and icons used for front end development.
 + Forms
 + Changing State, Hooks, and more
 
-### Project hosted on Firebase
+### Hosted on Firebase using Google cloud platform
 
 https://my-keeper-e50ed.web.app/
 
