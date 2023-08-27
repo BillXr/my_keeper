@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+  app:
+    container_name: keeper
+    build: .
+    volumes:
+      - ${PWD}/src/components
+      - ${PWD}/index.js
+      - ${PWD}/public
+    ports:
+      - "3000:3000"
